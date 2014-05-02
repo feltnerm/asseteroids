@@ -6,7 +6,7 @@ var jquery = $ = require('jquery'),
 
 var Game = require('./lib/game');
 
-$(document.body).css({ background: '#00FF00' });
+$(document.body).css({ background: '#36949C' });
 
 $(document).ready(function(){
     var game = new Game();
